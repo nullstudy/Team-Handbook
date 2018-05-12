@@ -8,3 +8,44 @@
 # 깃랩으로부터 배우는 커뮤니케이션의 해답
 https://about.gitlab.com/handbook/ 
 전 세계 39개국의 250명의 직원이 원격근무로 일하는 깃랩에 입사 되면 한 권의 핸드북을 받게 된다. 첫 출근한 직원도 이것만 읽으면 곧바로 업무를 할 수 있을 정도로 모든 디테일이 적혀있다. 예를 들면, 이메일 작성법부터 3번 이상 이메일, 채팅을 주고 받았음에도 문제가 해결 되지 않을 시 화상통화를 통해 회의를 한다. 이러한 다양한 상황별 지침을 제시함으로써 다양한 문화권에서 근무하는 직원들 간의 갈등을 해소했다.
+
+--------
+
+- General
+  - Values
+  - General Guidelines
+  - Handbook Usage
+  - Communication
+  - Security
+  - Anti-Harassment Policy
+  - Signing legal documents
+  - Tools and tips
+  - Leadership
+  - Secret Snowflake
+  - Using Git to update this website
+  
+- People Operations
+  - Benefits
+  - Code of Conduct
+  - Spending Company Money
+  - Travel
+  - Paid time off
+  - Incentives
+  - Onboarding
+
+- Engineering
+  - Support
+  - Infrastructure
+    - Database Team
+    - Gitaly Team
+    - Production Team
+  - Security Team
+  - Backend
+    - CI/CD Team
+    - Discussion Team
+    - Platform Team
+    - Monitoring Team
+  - Frontend
+  - Quality
+  - UX
+  - Distribution
