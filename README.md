@@ -46,9 +46,9 @@ https://about.gitlab.com/handbook/
     - Platform Team
     - Monitoring Team
   - Frontend
-      - Google FireBase 환경세팅 (Android/ IOS)
-      - 카카오 소셜로그인 처리
-      - 네이버 소셜로그인 처리
+    - Google FireBase 환경세팅 (Android/ IOS)
+    - 카카오 소셜로그인 처리
+    - 네이버 소셜로그인 처리 
   - Quality
   - UX
   - Distribution
