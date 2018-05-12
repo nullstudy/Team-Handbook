@@ -47,8 +47,9 @@ https://about.gitlab.com/handbook/
     - Monitoring Team
   - Frontend
     - Google FireBase 환경세팅 (Android/ IOS)
-    - 카카오 소셜로그인 처리
-    - 네이버 소셜로그인 처리
+    - [소셜로그인 활용과 개념](./frontend/sociallogin.md)
+    - 카카오 소셜로그인 연동 
+    - 네이버 소셜로그인 연동
   
   - Quality
   - UX
